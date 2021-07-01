@@ -3,15 +3,15 @@
 
 ## 01 Criando Servidor
 <p>
--Primeiro projeto em node.js.
--NPM init.
--Execução de arquivos Javascript com nodeJS.
+-Primeiro projeto em node.js.<br>
+-NPM init.<br>
+-Execução de arquivos Javascript com nodeJS.<br>
 -Criando servidor node, modulo http e lendo arquivos com base na URL.
 </p>
 
 ## 02 Manipulando aquivos
 <p>
--Criação de arquivos e adições via node.
--Leitura avançada, funções para String e lendo input por linha de cmd.
--Removendo e Deletando arquivos.
+-Criação de arquivos e adições via node.<br>
+-Leitura avançada, funções para String e lendo input por linha de cmd.<br>
+-Removendo e Deletando arquivos.<br>
 </p>
