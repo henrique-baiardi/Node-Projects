@@ -15,3 +15,9 @@
 -Leitura avançada, funções para String e lendo input por linha de cmd.<br>
 -Removendo e Deletando arquivos.<br>
 </p>
+
+## 03 Modulos
+<p>
+  -Criando Modes e classes.<br>
+  -Dando Exports.<br>
+</p>
